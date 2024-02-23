@@ -2,7 +2,7 @@
 # Vanila Landing Page
 
 
-Simple page with laconic design, created with modern web development tools, but without frameworks.
+Simple page with laconic design, created with modern web development tools (TypeScript, Tailwind), but without frameworks.
 ## Tech Stack
 
 **Base:** HTML, TypeScript (JavaScript)
