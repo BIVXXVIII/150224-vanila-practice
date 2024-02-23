@@ -18,3 +18,12 @@ Simple page with laconic design, created with modern web development tools (Type
 - Mobile menu version
 - Preloader with animation
 - List with popups on click with product preview or text
+
+##Usage
+
+- **run development**
+  npm run dev
+- **preview**
+  npm run preview
+- **build**
+  npm run build
